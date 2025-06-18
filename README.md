@@ -1,4 +1,4 @@
-<h1>Hi < Devs / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center">Hi < Devs / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -9,7 +9,7 @@
 <img align="right" src="https://github.com/Anyelo1617/Anyelo1617/blob/732b98e821b5924abbf4fd4d4eed37f8fb87c690/ave2.png">
  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejM1aHB1Z2V4YmVsdDRyZGJmemY0bXI4enN0aWdsdjdxc3doeXR3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif" width="30px">&nbsp;***About me***
 
 🎓 I’m a Systems Engineering student, passionate about both front-end and back-end development, as well as exploring design areas like Photoshop and video editing. I’m currently working on personal projects that drive my professional and personal growth.
 
@@ -40,11 +40,8 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
  
- 
-
 
 </span>
-
 
 <h4> Other Tools and Technologies </h4>
 <span>
